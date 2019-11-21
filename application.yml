@@ -33,3 +33,8 @@ spring:
   application:
     name: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
+---
+spring: 
+  profiles: cloud-noun
+  application:
+    name: noun
