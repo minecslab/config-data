@@ -38,3 +38,4 @@ spring:
   profiles: cloud-noun
   application:
     name: noun
+words: icicle,refrigerator,blizzard,snowball    
